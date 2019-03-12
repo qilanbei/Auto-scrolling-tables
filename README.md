@@ -1,4 +1,4 @@
-# scrol-table
+# Auto-scrolling-table
 
 ## Project setup
 ```
